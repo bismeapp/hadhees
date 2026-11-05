@@ -106,7 +106,7 @@ The build runs the TypeScript project build, creates the Vite production output,
 
 Deploy the contents of `dist/` to a static host. Configure SPA fallback so direct routes, including `/quran/1` and `/hadith/bukhari/1`, serve `index.html`. The production application requires no separate API or database server.
 
-This repository includes a Render Blueprint at its root. Create a Render Static Site from the existing GitHub repository and use the `main` branch; the Blueprint configures `quran-hadith-frontend` as the root directory, builds the app and data, publishes `dist/`, and rewrites client-side routes to `index.html`. Node.js `24.22.1` is pinned in the repository's `.node-version` file. No environment variables are required when the sibling `quran-hadith-data/` directory is present in the repository. The build packages all available Quran editions and Hadith collections, so it can take time and produces a sizable static asset set.
+This repository includes a Render Blueprint at its root. Create a Render Static Site from the existing GitHub repository and use the `main` branch. Leave the service's Root Directory blank (the repository root) so the build can access both `quran-hadith-frontend/` and its sibling `quran-hadith-data/` directory. The Blueprint installs and builds the frontend from the repository root, publishes `quran-hadith-frontend/dist/`, and rewrites client-side routes to `index.html`. Node.js `24.22.1` is pinned in the repository's `.node-version` file. No environment variables are required when the sibling `quran-hadith-data/` directory is present in the repository. The build packages all available Quran editions and Hadith collections, so it can take time and produces a sizable static asset set.
 
 ## Folder Structure
 

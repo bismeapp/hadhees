@@ -3,9 +3,8 @@ services:
     name: bismi-radio
     runtime: static
     branch: main
-    rootDir: quran-hadith-frontend
-    buildCommand: npm ci && npm run build
-    staticPublishPath: dist
+    buildCommand: npm ci --prefix quran-hadith-frontend && npm run build --prefix quran-hadith-frontend
+    staticPublishPath: quran-hadith-frontend/dist
     routes:
       - type: rewrite
         source: /*

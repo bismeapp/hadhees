@@ -5,7 +5,7 @@ import react from '@vitejs/plugin-react'
 import { defineConfig, type Plugin } from 'vite'
 
 const projectRoot = path.dirname(fileURLToPath(import.meta.url))
-const defaultDatabaseRoot = path.resolve(projectRoot, '..', 'quran-hadith-backend')
+const defaultDatabaseRoot = path.resolve(projectRoot, '..', 'quran-hadith-data')
 const databaseRoot = path.resolve(process.env.DATA_SOURCE_DIR || defaultDatabaseRoot)
 const allowedRoots = ['quran', 'hadith/chapter-wise']
 

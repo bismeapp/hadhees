@@ -4,7 +4,7 @@ import { fileURLToPath } from 'node:url'
 
 const projectRoot = path.dirname(fileURLToPath(import.meta.url))
 const sourceRoot = path.resolve(
-  process.env.DATA_SOURCE_DIR || path.resolve(projectRoot, '..', '..', 'quran-hadith-backend'),
+  process.env.DATA_SOURCE_DIR || path.resolve(projectRoot, '..', '..', 'quran-hadith-data'),
 )
 const outputRoot = path.join(projectRoot, '..', 'dist', 'data')
 const outputManifest = path.join(projectRoot, '..', 'dist', 'data-manifest.json')

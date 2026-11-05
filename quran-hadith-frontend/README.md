@@ -78,7 +78,7 @@ Open a terminal in `quran-hadith-frontend/` and install the dependencies:
 npm install
 ```
 
-By default, the sibling `quran-hadith-backend/` folder is used. If it is elsewhere, set `DATA_SOURCE_DIR` to the directory containing `quran/` and `hadith/`.
+By default, the sibling `quran-hadith-data/` folder is used. If it is elsewhere, set `DATA_SOURCE_DIR` to the directory containing `quran/` and `hadith/`.
 
 ## Development Instructions
 
@@ -106,11 +106,13 @@ The build runs the TypeScript project build, creates the Vite production output,
 
 Deploy the contents of `dist/` to a static host. Configure SPA fallback so direct routes, including `/quran/1` and `/hadith/bukhari/1`, serve `index.html`. The production application requires no separate API or database server.
 
+This repository includes a Render Blueprint at its root. Create a Render Static Site from the existing GitHub repository and use the `main` branch; the Blueprint configures `quran-hadith-frontend` as the root directory, builds the app and data, publishes `dist/`, and rewrites client-side routes to `index.html`. Node.js `24.22.1` is pinned in the repository's `.node-version` file. No environment variables are required when the sibling `quran-hadith-data/` directory is present in the repository. The build packages all available Quran editions and Hadith collections, so it can take time and produces a sizable static asset set.
+
 ## Folder Structure
 
 ```text
 Sumaya-17-quran-hadith-json-d513ff1/
-├── quran-hadith-backend/                 # Existing JSON database (read-only)
+├── quran-hadith-data/                    # Existing JSON database (read-only)
 └── quran-hadith-frontend/                # BISMI RADIO application
     ├── public/assets/                    # Supplied logo
     ├── scripts/                           # Production data packaging
@@ -132,7 +134,7 @@ The reader never substitutes English for a selected Tamil or Malayalam edition. 
 
 ## Troubleshooting
 
-- **Data manifest unavailable:** ensure `DATA_SOURCE_DIR` points to the database root containing `quran/` and `hadith/`, then restart Vite.
+- **Data manifest unavailable:** ensure the sibling `quran-hadith-data/` folder or `DATA_SOURCE_DIR` points to the database root containing `quran/` and `hadith/`, then restart Vite.
 - **Edition or chapter unavailable:** verify that the source file exists and that the language or collection was included in a filtered production build.
 - **Invalid source JSON:** the affected file reports a controlled loading error. The source database remains unchanged.
 - **Production data is stale:** run `npm run build` again after changing data filters.

@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: bismi-radio
+    runtime: static
+    branch: main
+    rootDir: quran-hadith-frontend
+    buildCommand: npm ci && npm run build
+    staticPublishPath: dist
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html

@@ -1,0 +1,884 @@
+{
+  "book_name_english": "bukhari",
+  "book_name_arabic": "صحيح البخاري",
+  "book_name_tamil": "ஸஹீஹ் அல்-புகாரி",
+  "book_name_malayalam": "സ്വഹീഹ് അൽ-ബുഖാരി",
+  "book_short_desc": "Ṣaḥīḥ al-Bukhārī is a collection of hadīth compiled by Abu Abdullāh Muhammad Ibn Ismā`īl al-Bukhārī(rahimahullāh). His collection is recognized by the overwhelming majority of the Muslim world to be one of the most authentic collections of the Sunnah of the Prophet (). It contains roughly 7563 hadīth (with repetitions) in 98 books. The translation provided here is by Dr. M. Muhsin Khan.",
+  "total_hadiths_inBook": 7277,
+  "total_chapters_inBook": 97,
+  "all_chapters_detail": [
+    {
+      "chapter_title_english": "Revelation",
+      "chapter_title_arabic": "كتاب بدء الوحى",
+      "chapter_title_tamil": "வஹீ (இறைச்செய்தி)",
+      "chapter_title_malayalam": "വഹ്യിന്റെ അവതരണം",
+      "total_hadiths_inChapter": 7,
+      "chapter_first_hadith": 1,
+      "chapter_last_hadith": 7
+    },
+    {
+      "chapter_title_english": "Belief",
+      "chapter_title_arabic": "كتاب الإيمان",
+      "chapter_title_tamil": "ஈமான் (இறைநம்பிக்கை)",
+      "chapter_title_malayalam": "വിശ്വാസം",
+      "total_hadiths_inChapter": 51,
+      "chapter_first_hadith": 8,
+      "chapter_last_hadith": 58
+    },
+    {
+      "chapter_title_english": "Knowledge",
+      "chapter_title_arabic": "كتاب العلم",
+      "chapter_title_tamil": "இல்ம் (அறிவு)",
+      "chapter_title_malayalam": "വിജ്ഞാനം",
+      "total_hadiths_inChapter": 76,
+      "chapter_first_hadith": 59,
+      "chapter_last_hadith": 134
+    },
+    {
+      "chapter_title_english": "Ablutions (Wudu')",
+      "chapter_title_arabic": "كتاب الوضوء",
+      "chapter_title_tamil": "வுளு (ஒளு - உளவூக்கம்)",
+      "chapter_title_malayalam": "വുളൂഅ് (അംഗശുദ്ധി വരുത്തൽ)",
+      "total_hadiths_inChapter": 113,
+      "chapter_first_hadith": 135,
+      "chapter_last_hadith": 247
+    },
+    {
+      "chapter_title_english": "Bathing (Ghusl)",
+      "chapter_title_arabic": "كتاب الغسل",
+      "chapter_title_tamil": "குளிப்பது (குஸ்ல்)",
+      "chapter_title_malayalam": "കുളി (ഗുസ്ൽ)",
+      "total_hadiths_inChapter": 45,
+      "chapter_first_hadith": 248,
+      "chapter_last_hadith": 292
+    },
+    {
+      "chapter_title_english": "Menstrual Periods",
+      "chapter_title_arabic": "كتاب الحيض",
+      "chapter_title_tamil": "மாதவிடாய் காலங்கள்",
+      "chapter_title_malayalam": "ആർത്തവ കാലഘട്ടം",
+      "total_hadiths_inChapter": 37,
+      "chapter_first_hadith": 293,
+      "chapter_last_hadith": 329
+    },
+    {
+      "chapter_title_english": "Rubbing hands and feet with dust (Tayammum)",
+      "chapter_title_arabic": "كتاب التيمم",
+      "chapter_title_tamil": "மண்ணால் கைகளையும் கால்களையும் தடவிக்கொள்வது (தயம்மும்)",
+      "chapter_title_malayalam": "മണ്ണുകൊണ്ട് കൈകാലുകൾ തടവൽ (തയമ്മും)",
+      "total_hadiths_inChapter": 15,
+      "chapter_first_hadith": 330,
+      "chapter_last_hadith": 344
+    },
+    {
+      "chapter_title_english": "Prayers (Salat)",
+      "chapter_title_arabic": "كتاب الصلاة",
+      "chapter_title_tamil": "தொழுகைகள் (ஸலாத்)",
+      "chapter_title_malayalam": "നമസ്കാരങ്ങൾ (സ്വലാത്ത്)",
+      "total_hadiths_inChapter": 167,
+      "chapter_first_hadith": 345,
+      "chapter_last_hadith": 511
+    },
+    {
+      "chapter_title_english": "Times of the Prayers",
+      "chapter_title_arabic": "كتاب مواقيت الصلاة",
+      "chapter_title_tamil": "தொழுகை நேரங்கள்",
+      "chapter_title_malayalam": "നമസ്കാര സമയങ്ങൾ",
+      "total_hadiths_inChapter": 77,
+      "chapter_first_hadith": 512,
+      "chapter_last_hadith": 588
+    },
+    {
+      "chapter_title_english": "Call to Prayers (Adhaan)",
+      "chapter_title_arabic": "كتاب الأذان",
+      "chapter_title_tamil": "தொழுகைக்கான அழைப்பு (அதான்)",
+      "chapter_title_malayalam": "നിസ്കാരത്തിനുള്ള വിളി (ബാങ്ക്)",
+      "total_hadiths_inChapter": 266,
+      "chapter_first_hadith": 589,
+      "chapter_last_hadith": 854
+    },
+    {
+      "chapter_title_english": "Friday Prayer",
+      "chapter_title_arabic": "كتاب الجمعة",
+      "chapter_title_tamil": "வெள்ளிக்கிழமை பற்றிய புத்தகம் (கிதாபுல் ஜுமுஆ)",
+      "chapter_title_malayalam": "ജുമുഅ നമസ്കാരം",
+      "total_hadiths_inChapter": 65,
+      "chapter_first_hadith": 855,
+      "chapter_last_hadith": 919
+    },
+    {
+      "chapter_title_english": "Fear Prayer",
+      "chapter_title_arabic": "كتاب صلاة الخوف",
+      "chapter_title_tamil": "அச்ச காலத் தொழுகை பற்றிய புத்தகம்",
+      "chapter_title_malayalam": "ഭയത്തിന്റെ നമസ്കാരം",
+      "total_hadiths_inChapter": 6,
+      "chapter_first_hadith": 920,
+      "chapter_last_hadith": 925
+    },
+    {
+      "chapter_title_english": "The Two Festivals (Eids)",
+      "chapter_title_arabic": "كتاب العيدين",
+      "chapter_title_tamil": "பெருநாட்களின் புத்தகம்",
+      "chapter_title_malayalam": "രണ്ട് പെരുന്നാളുകൾ (ഈദ് ആഘോഷങ്ങൾ)",
+      "total_hadiths_inChapter": 37,
+      "chapter_first_hadith": 926,
+      "chapter_last_hadith": 962
+    },
+    {
+      "chapter_title_english": "Witr Prayer",
+      "chapter_title_arabic": "كتاب الوتر",
+      "chapter_title_tamil": "அல்-வித்ர் புத்தகம்",
+      "chapter_title_malayalam": "വിത്ർ നമസ്കാരം",
+      "total_hadiths_inChapter": 15,
+      "chapter_first_hadith": 963,
+      "chapter_last_hadith": 977
+    },
+    {
+      "chapter_title_english": "Invoking Allah for Rain (Istisqaa)",
+      "chapter_title_arabic": "كتاب الاستسقاء",
+      "chapter_title_tamil": "மழை வேண்டிப் பிரார்த்தித்தல் நூல்",
+      "chapter_title_malayalam": "മഴയ്ക്കായി അല്ലാഹുവിനോട് പ്രാർത്ഥിക്കൽ (ഇസ്തിസ്ഖാഅ്)",
+      "total_hadiths_inChapter": 34,
+      "chapter_first_hadith": 978,
+      "chapter_last_hadith": 1011
+    },
+    {
+      "chapter_title_english": "Eclipses",
+      "chapter_title_arabic": "كتاب الكسوف",
+      "chapter_title_tamil": "கிரகணத் தொழுகை பற்றிய புத்தகம்",
+      "chapter_title_malayalam": "സൂര്യഗ്രഹണങ്ങളും ചന്ദ്രഗ്രഹണങ്ങളും",
+      "total_hadiths_inChapter": 24,
+      "chapter_first_hadith": 1012,
+      "chapter_last_hadith": 1035
+    },
+    {
+      "chapter_title_english": "Prostration During Recital of Qur'an",
+      "chapter_title_arabic": "كتاب سجود القرآن",
+      "chapter_title_tamil": "குர்ஆன் சஜ்தா புத்தகம்",
+      "chapter_title_malayalam": "ഖുർആൻ പാരായണം ചെയ്യുമ്പോഴുള്ള സുജൂദ്",
+      "total_hadiths_inChapter": 13,
+      "chapter_first_hadith": 1036,
+      "chapter_last_hadith": 1048
+    },
+    {
+      "chapter_title_english": "Shortening the Prayers (At-Taqseer)",
+      "chapter_title_arabic": "كتاب التقصير",
+      "chapter_title_tamil": "தொழுகையைக் குறைத்துத் தொழுவது பற்றிய புத்தகம்",
+      "chapter_title_malayalam": " നമസ്കാരം ചുരുക്കല്‍ (അത്-തഖ്സീര്‍)",
+      "total_hadiths_inChapter": 39,
+      "chapter_first_hadith": 1049,
+      "chapter_last_hadith": 1087
+    },
+    {
+      "chapter_title_english": "Prayer at Night (Tahajjud)",
+      "chapter_title_arabic": "كتاب التهجد",
+      "chapter_title_tamil": "அத்-தஹஜ்ஜுத் நூல்",
+      "chapter_title_malayalam": "രാത്രിയിലെ നമസ്കാരം (തഹജ്ജുദ്)",
+      "total_hadiths_inChapter": 63,
+      "chapter_first_hadith": 1088,
+      "chapter_last_hadith": 1150
+    },
+    {
+      "chapter_title_english": "Virtues of Prayer at Masjid Makkah and Madinah",
+      "chapter_title_arabic": "كتاب فضل الصلاة فى مسجد مكة والمدينة",
+      "chapter_title_tamil": "மக்கா மற்றும் மதீனா பள்ளிவாசல்களில் தொழுகையின் சிறப்பு குறித்த புத்தகம்",
+      "chapter_title_malayalam": "മക്കയിലും മദീനയിലും ഉള്ള പള്ളികളിലെ നമസ്കാരത്തിന്റെ ശ്രേഷ്ഠതകൾ",
+      "total_hadiths_inChapter": 9,
+      "chapter_first_hadith": 1151,
+      "chapter_last_hadith": 1159
+    },
+    {
+      "chapter_title_english": "Actions while Praying",
+      "chapter_title_arabic": "كتاب العمل فى الصلاة",
+      "chapter_title_tamil": "தொழுகையில் செயல்படுதல் குறித்த புத்தகம்",
+      "chapter_title_malayalam": "നസ്കാം ചെയ്യുമ്പോഴുള്ള പ്രവർത്തനങ്ങൾ",
+      "total_hadiths_inChapter": 27,
+      "chapter_first_hadith": 1160,
+      "chapter_last_hadith": 1186
+    },
+    {
+      "chapter_title_english": "Forgetfulness in Prayer",
+      "chapter_title_arabic": "كتاب السهو",
+      "chapter_title_tamil": "மறதி குறித்த பாடம் (கிதாபுஸ் ஸஹ்வ்)",
+      "chapter_title_malayalam": "Namaskarathile Maruvi",
+      "total_hadiths_inChapter": 14,
+      "chapter_first_hadith": 1187,
+      "chapter_last_hadith": 1200
+    },
+    {
+      "chapter_title_english": "Funerals (Al-Janaa'iz)",
+      "chapter_title_arabic": "كتاب الجنائز",
+      "chapter_title_tamil": "ஜனாஸாக்கள் (இறுதிச்சடங்குகள்) பற்றிய புத்தகம்",
+      "chapter_title_malayalam": "ജnoസങ്ങൾ (അൽ-ജനാഇസ്)",
+      "total_hadiths_inChapter": 148,
+      "chapter_first_hadith": 1201,
+      "chapter_last_hadith": 1348
+    },
+    {
+      "chapter_title_english": "Obligatory Charity Tax (Zakat)",
+      "chapter_title_arabic": "كتاب الزكاة",
+      "chapter_title_tamil": "கட்டாய தர்ம வரி (ஜகாத்)",
+      "chapter_title_malayalam": "നിർബന്ധ ദാനധർമ്മ നികുതി (സകാത്ത്)",
+      "total_hadiths_inChapter": 112,
+      "chapter_first_hadith": 1349,
+      "chapter_last_hadith": 1460
+    },
+    {
+      "chapter_title_english": "Hajj (Pilgrimage)",
+      "chapter_title_arabic": "كتاب الحج",
+      "chapter_title_tamil": "ஹஜ் (புனிதப் பயணம்)",
+      "chapter_title_malayalam": "ഹജ്ജ് (തീർത്ഥാടനം)",
+      "total_hadiths_inChapter": 247,
+      "chapter_first_hadith": 1461,
+      "chapter_last_hadith": 1707
+    },
+    {
+      "chapter_title_english": "`Umrah (Minor pilgrimage)",
+      "chapter_title_arabic": "كتاب العمرة",
+      "chapter_title_tamil": "உம்ரா (சிறிய புனிதப் பயணம்)",
+      "chapter_title_malayalam": "ഉംറ (ചെറിയ തീർത്ഥാടനം)",
+      "total_hadiths_inChapter": 30,
+      "chapter_first_hadith": 1708,
+      "chapter_last_hadith": 1737
+    },
+    {
+      "chapter_title_english": "Pilgrims Prevented from Completing the Pilgrimage",
+      "chapter_title_arabic": "كتاب المحصر",
+      "chapter_title_tamil": "ஹஜ் அல்லது உம்ராவை நிறைவு செய்ய முடியாமல் தடுக்கப்பட்டவர்கள்",
+      "chapter_title_malayalam": "तीർത്ഥാടനം പൂർത്തിയാക്കുന്നതിൽ നിന്ന് തടയപ്പെട്ട തീർത്ഥാടകർ",
+      "total_hadiths_inChapter": 15,
+      "chapter_first_hadith": 1738,
+      "chapter_last_hadith": 1752
+    },
+    {
+      "chapter_title_english": "Penalty of Hunting while on Pilgrimage",
+      "chapter_title_arabic": "كتاب جزاء الصيد",
+      "chapter_title_tamil": "புனிதப் பயணத்தின் (ஹஜ்/உம்ரா) போது வேட்டையாடுவதற்கான தண்டனை",
+      "chapter_title_malayalam": "തീർത്ഥാടന വേളയിൽ വേട്ടയാടിയതിനുള്ള പ്രായശ്ചിത്തം",
+      "total_hadiths_inChapter": 46,
+      "chapter_first_hadith": 1753,
+      "chapter_last_hadith": 1798
+    },
+    {
+      "chapter_title_english": "Virtues of Madinah",
+      "chapter_title_arabic": "كتاب فضائل المدينة",
+      "chapter_title_tamil": "மதீனாவின் சிறப்புகள்",
+      "chapter_title_malayalam": "മദീനയുടെ ശ്രേഷ്ഠതകൾ",
+      "total_hadiths_inChapter": 24,
+      "chapter_first_hadith": 1799,
+      "chapter_last_hadith": 1822
+    },
+    {
+      "chapter_title_english": "Fasting",
+      "chapter_title_arabic": "كتاب الصوم",
+      "chapter_title_tamil": "நோன்பு",
+      "chapter_title_malayalam": "നോമ്പ്",
+      "total_hadiths_inChapter": 112,
+      "chapter_first_hadith": 1823,
+      "chapter_last_hadith": 1934
+    },
+    {
+      "chapter_title_english": "Praying at Night in Ramadaan (Taraweeh)",
+      "chapter_title_arabic": "كتاب صلاة التراويح",
+      "chapter_title_tamil": "ரமளானில் இரவுத் தொழுகை (தராவிஹ்)",
+      "chapter_title_malayalam": "റമദാനിലെ രാത്രി നമസ്കാരം (തറാവീഹ്)",
+      "total_hadiths_inChapter": 6,
+      "chapter_first_hadith": 1935,
+      "chapter_last_hadith": 1940
+    },
+    {
+      "chapter_title_english": "Virtues of the Night of Qadr",
+      "chapter_title_arabic": "كتاب فضل ليلة القدر",
+      "chapter_title_tamil": "லைலத்துல் கத்ரின் சிறப்புகள்",
+      "chapter_title_malayalam": "ലൈലത്തുൽ ഖദ്റിന്റെ മഹത്വങ്ങൾ",
+      "total_hadiths_inChapter": 11,
+      "chapter_first_hadith": 1941,
+      "chapter_last_hadith": 1951
+    },
+    {
+      "chapter_title_english": "Retiring to a Mosque for Remembrance of Allah (I'tikaf)",
+      "chapter_title_arabic": "كتاب الاعتكاف",
+      "chapter_title_tamil": "அல்லாஹ்வை நினைவுகூர்வதற்காக மஸ்ஜிதில் தங்குதல் (இஃதிகாஃப்)",
+      "chapter_title_malayalam": "അല്ലാഹുവിനെ സ്മരിക്കുന്നതിനായി പള്ളിയിൽ ഭജനമിരിക്കൽ (ഇഅ്തികാഫ്)",
+      "total_hadiths_inChapter": 21,
+      "chapter_first_hadith": 1952,
+      "chapter_last_hadith": 1972
+    },
+    {
+      "chapter_title_english": "Sales and Trade",
+      "chapter_title_arabic": "كتاب البيوع",
+      "chapter_title_tamil": "விற்பனையும் வணிகமும்",
+      "chapter_title_malayalam": "വ്യാപാരവും കച്ചവടവും",
+      "total_hadiths_inChapter": 184,
+      "chapter_first_hadith": 1973,
+      "chapter_last_hadith": 2156
+    },
+    {
+      "chapter_title_english": "Sales in which a Price is paid for Goods to be Delivered Later (As-Salam)",
+      "chapter_title_arabic": "كتاب السلم",
+      "chapter_title_tamil": "பின்னர் வழங்கப்படும் பொருட்களுக்கு முன்கூட்டியே விலை கொடுக்கப்படும் விற்பனை (அஸ்-சலாம்)",
+      "chapter_title_malayalam": "പിന്നീട് വിതരണം ചെയ്യേണ്ട സാധനങ്ങൾക്ക് മുൻകൂറായി വില നൽകുന്ന കച്ചവടം (അസ്സലാം)",
+      "total_hadiths_inChapter": 16,
+      "chapter_first_hadith": 2157,
+      "chapter_last_hadith": 2172
+    },
+    {
+      "chapter_title_english": "Shuf'a",
+      "chapter_title_arabic": "كتاب الشفعة",
+      "chapter_title_tamil": "ஷுஃபஆ (முன்னுரிமை உரிமை)",
+      "chapter_title_malayalam": "ശുഫ്അ (അവകാശ മുൻഗണന)",
+      "total_hadiths_inChapter": 3,
+      "chapter_first_hadith": 2173,
+      "chapter_last_hadith": 2175
+    },
+    {
+      "chapter_title_english": "Hiring",
+      "chapter_title_arabic": "كتاب الإجارة",
+      "chapter_title_tamil": "வேலைக்கு அமர்த்துதல்",
+      "chapter_title_malayalam": "നിയമനം",
+      "total_hadiths_inChapter": 25,
+      "chapter_first_hadith": 2176,
+      "chapter_last_hadith": 2200
+    },
+    {
+      "chapter_title_english": "Transferance of a Debt from One Person to Another (Al-Hawaala)",
+      "chapter_title_arabic": "كتاب الحوالات",
+      "chapter_title_tamil": "ஒருவரின் கடனை மற்றொருவருக்கு மாற்றுவது (அல்-ஹவாலா)",
+      "chapter_title_malayalam": "ഒരാളിൽ നിന്ന് മറ്റൊരാളിലേക്ക് കടം കൈമാറ്റം ചെയ്യൽ (അൽ-ഹവാല)",
+      "total_hadiths_inChapter": 3,
+      "chapter_first_hadith": 2201,
+      "chapter_last_hadith": 2203
+    },
+    {
+      "chapter_title_english": "Kafalah",
+      "chapter_title_arabic": "كتاب الكفالة",
+      "chapter_title_tamil": "கபாலா (பிணையப் பொறுப்பு)",
+      "chapter_title_malayalam": "കഫാല (ജാമ്യം)",
+      "total_hadiths_inChapter": 9,
+      "chapter_first_hadith": 2204,
+      "chapter_last_hadith": 2212
+    },
+    {
+      "chapter_title_english": "Representation, Authorization, Business by Proxy",
+      "chapter_title_arabic": "كتاب الوكالة",
+      "chapter_title_tamil": "प्रतिनिத்துவம், அதிகாரம், முகவர் மூலம் வியாபாரம்",
+      "chapter_title_malayalam": "പ്രാതിനിധ്യം, അധികാരപ്പെടുത്തൽ, ഏജൻസി വഴിയുള്ള ബിസിനസ്സ്",
+      "total_hadiths_inChapter": 18,
+      "chapter_first_hadith": 2213,
+      "chapter_last_hadith": 2230
+    },
+    {
+      "chapter_title_english": "Agriculture",
+      "chapter_title_arabic": "كتاب المزارعة",
+      "chapter_title_tamil": "வேளாண்மை",
+      "chapter_title_malayalam": "കൃഷി",
+      "total_hadiths_inChapter": 28,
+      "chapter_first_hadith": 2231,
+      "chapter_last_hadith": 2258
+    },
+    {
+      "chapter_title_english": "Distribution of Water",
+      "chapter_title_arabic": "كتاب المساقاة",
+      "chapter_title_tamil": "நீரை விநியோகித்தல்",
+      "chapter_title_malayalam": "വെള്ളം വിതരണം ചെയ്യൽ",
+      "total_hadiths_inChapter": 31,
+      "chapter_first_hadith": 2259,
+      "chapter_last_hadith": 2289
+    },
+    {
+      "chapter_title_english": "Loans, Payment of Loans, Freezing of Property, Bankruptcy",
+      "chapter_title_arabic": "كتاب فى الاستقراض",
+      "chapter_title_tamil": "கடன்கள், கடன்களைத் திருப்பிச் செலுத்துதல், சொத்துக்களை முடக்குதல், திவால்நிலை",
+      "chapter_title_malayalam": "കടങ്ങൾ, കടങ്ങൾ വീട്ടൽ, സ്വത്തുക്കൾ മരവിപ്പിക്കൽ, പാപ്പരത്തം",
+      "total_hadiths_inChapter": 24,
+      "chapter_first_hadith": 2290,
+      "chapter_last_hadith": 2313
+    },
+    {
+      "chapter_title_english": "Khusoomaat",
+      "chapter_title_arabic": "كتاب الخصومات",
+      "chapter_title_tamil": "குசூமாத் (கருத்து வேறுபாடுகள்)",
+      "chapter_title_malayalam": "തർക്കങ്ങൾ",
+      "total_hadiths_inChapter": 15,
+      "chapter_first_hadith": 2314,
+      "chapter_last_hadith": 2328
+    },
+    {
+      "chapter_title_english": "Lost Things Picked up by Someone (Luqatah)",
+      "chapter_title_arabic": "كتاب فى اللقطة",
+      "chapter_title_tamil": "சிலரால்  கண்டெடுக்கப்பட்ட இழந்த பொருட்கள் (லுகதா)",
+      "chapter_title_malayalam": "ആരെങ്കിലും എടുത്തുകളഞ്ഞ നഷ്ടപ്പെട്ട വസ്തുക്കൾ (ലുഖത്വ)",
+      "total_hadiths_inChapter": 15,
+      "chapter_first_hadith": 2329,
+      "chapter_last_hadith": 2343
+    },
+    {
+      "chapter_title_english": "Oppressions",
+      "chapter_title_arabic": "كتاب المظالم",
+      "chapter_title_tamil": "அடுத்தவர்க்கு இழைக்கப்படும் அநீதிகள்",
+      "chapter_title_malayalam": "അക്രമങ്ങൾ",
+      "total_hadiths_inChapter": 43,
+      "chapter_first_hadith": 2344,
+      "chapter_last_hadith": 2386
+    },
+    {
+      "chapter_title_english": "Partnership",
+      "chapter_title_arabic": "كتاب الشركة",
+      "chapter_title_tamil": "கூட்டுறவு",
+      "chapter_title_malayalam": "പങ്കാളിത്തം",
+      "total_hadiths_inChapter": 22,
+      "chapter_first_hadith": 2387,
+      "chapter_last_hadith": 2408
+    },
+    {
+      "chapter_title_english": "Mortgaging",
+      "chapter_title_arabic": "كتاب الرهن",
+      "chapter_title_tamil": "அடமானம் வைத்தல்",
+      "chapter_title_malayalam": "പണയം വെക്കൽ",
+      "total_hadiths_inChapter": 8,
+      "chapter_first_hadith": 2409,
+      "chapter_last_hadith": 2416
+    },
+    {
+      "chapter_title_english": "Manumission of Slaves",
+      "chapter_title_arabic": "كتاب العتق",
+      "chapter_title_tamil": "அடிமைகளை விடுதலை செய்தல்",
+      "chapter_title_malayalam": "അടിമകളെ മോചിപ്പിക്കൽ",
+      "total_hadiths_inChapter": 41,
+      "chapter_first_hadith": 2417,
+      "chapter_last_hadith": 2457
+    },
+    {
+      "chapter_title_english": "Makaatib",
+      "chapter_title_arabic": "كتاب المكاتب",
+      "chapter_title_tamil": "மகாதிப் (அடிமை விடுதலை ஒப்பந்தங்கள்)",
+      "chapter_title_malayalam": "മകാതിബ്",
+      "total_hadiths_inChapter": 6,
+      "chapter_first_hadith": 2458,
+      "chapter_last_hadith": 2463
+    },
+    {
+      "chapter_title_english": "Gifts",
+      "chapter_title_arabic": "كتاب الهبة وفضلها والتحريض عليها",
+      "chapter_title_tamil": "பரிசுப் பொருட்கள்",
+      "chapter_title_malayalam": "സമ്മാനങ്ങൾ",
+      "total_hadiths_inChapter": 68,
+      "chapter_first_hadith": 2464,
+      "chapter_last_hadith": 2531
+    },
+    {
+      "chapter_title_english": "Witnesses",
+      "chapter_title_arabic": "كتاب الشهادات",
+      "chapter_title_tamil": "சாட்சிகள்",
+      "chapter_title_malayalam": "സാക്ഷികൾ",
+      "total_hadiths_inChapter": 50,
+      "chapter_first_hadith": 2532,
+      "chapter_last_hadith": 2581
+    },
+    {
+      "chapter_title_english": "Peacemaking",
+      "chapter_title_arabic": "كتاب الصلح",
+      "chapter_title_tamil": "சமாதானத்தை ஏற்படுத்துதல்",
+      "chapter_title_malayalam": "സമാധാനം സ്ഥാപിക്കൽ",
+      "total_hadiths_inChapter": 20,
+      "chapter_first_hadith": 2582,
+      "chapter_last_hadith": 2601
+    },
+    {
+      "chapter_title_english": "Conditions",
+      "chapter_title_arabic": "كتاب الشروط",
+      "chapter_title_tamil": "நிபந்தனைகள்",
+      "chapter_title_malayalam": "നിബന്ധനകൾ",
+      "total_hadiths_inChapter": 24,
+      "chapter_first_hadith": 2602,
+      "chapter_last_hadith": 2625
+    },
+    {
+      "chapter_title_english": "Wills and Testaments (Wasaayaa)",
+      "chapter_title_arabic": "كتاب الوصايا",
+      "chapter_title_tamil": "வஸிய்யத்துகள் மற்றும் உயில்கள் (வஸாயா)",
+      "chapter_title_malayalam": "وصايا (മരണപത്രങ്ങളും വസിയ്യത്തുകളും)",
+      "total_hadiths_inChapter": 44,
+      "chapter_first_hadith": 2626,
+      "chapter_last_hadith": 2669
+    },
+    {
+      "chapter_title_english": "Fighting for the Cause of Allah (Jihaad)",
+      "chapter_title_arabic": "كتاب الجهاد والسير",
+      "chapter_title_tamil": "அல்லாஹ்வின் பாதையில் போராடுதல் (ஜிஹாத்)",
+      "chapter_title_malayalam": "അല്ലാഹുവിന്റെ മാർഗത്തിലുള്ള യുദ്ധം (ജിഹാദ്)",
+      "total_hadiths_inChapter": 294,
+      "chapter_first_hadith": 2670,
+      "chapter_last_hadith": 2963
+    },
+    {
+      "chapter_title_english": "One-fifth of Booty to the Cause of Allah (Khumus)",
+      "chapter_title_arabic": "كتاب فرض الخمس",
+      "chapter_title_tamil": "அல்லாஹ்வின் பாதையில் போர்க்காலக் கொள்ளைப் பொருட்களில் ஐந்தில் ஒரு பங்கு (குமுஸ்)",
+      "chapter_title_malayalam": "അല്ലാഹുവിന്റെ മാർഗ്ഗത്തിലുള്ള യുദ്ധമുതലിന്റെ അഞ്ചിലൊന്ന് (ഖുമുസ്)",
+      "total_hadiths_inChapter": 63,
+      "chapter_first_hadith": 2964,
+      "chapter_last_hadith": 3026
+    },
+    {
+      "chapter_title_english": "Jizyah and Mawaada'ah",
+      "chapter_title_arabic": "كتاب الجزية والموادعة",
+      "chapter_title_tamil": "ஜிஸ்யா மற்றும் முவாதா (உடன்படிக்கை)",
+      "chapter_title_malayalam": "ജിസ്യയും സമാധാന ഉടമ്പടിയും",
+      "total_hadiths_inChapter": 30,
+      "chapter_first_hadith": 3027,
+      "chapter_last_hadith": 3056
+    },
+    {
+      "chapter_title_english": "Beginning of Creation",
+      "chapter_title_arabic": "كتاب بدء الخلق",
+      "chapter_title_tamil": "படைப்பின் தொடக்கம்",
+      "chapter_title_malayalam": "സൃഷ്ടിയുടെ ആരംഭം",
+      "total_hadiths_inChapter": 131,
+      "chapter_first_hadith": 3057,
+      "chapter_last_hadith": 3187
+    },
+    {
+      "chapter_title_english": "Prophets",
+      "chapter_title_arabic": "كتاب أحاديث الأنبياء",
+      "chapter_title_tamil": "நபிமார்கள்",
+      "chapter_title_malayalam": "പ്രവാചകന്മാർ",
+      "total_hadiths_inChapter": 154,
+      "chapter_first_hadith": 3188,
+      "chapter_last_hadith": 3341
+    },
+    {
+      "chapter_title_english": "Virtues and Merits of the Prophet (pbuh) and his Companions",
+      "chapter_title_arabic": "كتاب المناقب",
+      "chapter_title_tamil": "இறைத்தூதர் (ஸல்) மற்றும் அவரது தோழர்களின் சிறப்புகளும் நற்பண்புகளும்",
+      "chapter_title_malayalam": "പ്രവാചകന്റെയും (സ) അദ്ദേഹത്തിന്റെ അനുചരന്മാരുടെയും സവിശേഷതകളും പദവിയും",
+      "total_hadiths_inChapter": 151,
+      "chapter_first_hadith": 3342,
+      "chapter_last_hadith": 3492
+    },
+    {
+      "chapter_title_english": "Companions of the Prophet",
+      "chapter_title_arabic": "كتاب فضائل أصحاب النبى صلى الله عليه وسلم",
+      "chapter_title_tamil": "இறைத்தூதரின் தோழர்கள்",
+      "chapter_title_malayalam": "പ്രവാചകന്റെ അനുചരന്മാർ",
+      "total_hadiths_inChapter": 120,
+      "chapter_first_hadith": 3493,
+      "chapter_last_hadith": 3612
+    },
+    {
+      "chapter_title_english": "Merits of the Helpers in Madinah (Ansaar)",
+      "chapter_title_arabic": "كتاب مناقب الأنصار",
+      "chapter_title_tamil": "மதீனாவின் உதவியாளர்களின் (அன்ஸாரிகளின்) சிறப்புகள்",
+      "chapter_title_malayalam": "മദീനയിലെ അൻസാറുകളുടെ (സഹായികളുടെ) ശ്രേഷ്ഠതകൾ",
+      "total_hadiths_inChapter": 172,
+      "chapter_first_hadith": 3613,
+      "chapter_last_hadith": 3784
+    },
+    {
+      "chapter_title_english": "Military Expeditions led by the Prophet (pbuh) (Al-Maghaazi)",
+      "chapter_title_arabic": "كتاب المغازى",
+      "chapter_title_tamil": "நபி (ஸல்) அவர்கள் தலைமையேற்று நடத்திய படையெடுப்புகள் (அல்-மகாஸீ)",
+      "chapter_title_malayalam": "പ്രവാചകന്റെ (സ) നേതൃത്വത്തിലുള്ള സൈനിക നീക്കങ്ങൾ (അൽ-മഗാസി)",
+      "total_hadiths_inChapter": 488,
+      "chapter_first_hadith": 3785,
+      "chapter_last_hadith": 4272
+    },
+    {
+      "chapter_title_english": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (pbuh))",
+      "chapter_title_arabic": "كتاب التفسير",
+      "chapter_title_tamil": "திருக்குர்ஆனுக்கான இறைத்தூதரின் விளக்கம் (நபி (ஸல்) அவர்களின் தப்ஸீர்)",
+      "chapter_title_malayalam": "ഖുർആന്റെ പ്രവാചക വ്യാഖ്യാനം (നബിയുടെ തഫ്സീർ)",
+      "total_hadiths_inChapter": 499,
+      "chapter_first_hadith": 4273,
+      "chapter_last_hadith": 4771
+    },
+    {
+      "chapter_title_english": "Virtues of the Qur'an",
+      "chapter_title_arabic": "كتاب فضائل القرآن",
+      "chapter_title_tamil": "குர்ஆனின் சிறப்புகள்",
+      "chapter_title_malayalam": "ഖുർആനിന്റെ ശ്രേഷ്ഠതകൾ",
+      "total_hadiths_inChapter": 87,
+      "chapter_first_hadith": 4772,
+      "chapter_last_hadith": 4858
+    },
+    {
+      "chapter_title_english": "Wedlock, Marriage (Nikaah)",
+      "chapter_title_arabic": "كتاب النكاح",
+      "chapter_title_tamil": "மணமுறிவு, திருமணம் (நிக்காஹ்)",
+      "chapter_title_malayalam": "വിവാഹം, നിക്കാഹ്",
+      "total_hadiths_inChapter": 183,
+      "chapter_first_hadith": 4859,
+      "chapter_last_hadith": 5041
+    },
+    {
+      "chapter_title_english": "Divorce",
+      "chapter_title_arabic": "كتاب الطلاق",
+      "chapter_title_tamil": "விவாகரத்து",
+      "chapter_title_malayalam": "ത്വലാഖ്",
+      "total_hadiths_inChapter": 95,
+      "chapter_first_hadith": 5042,
+      "chapter_last_hadith": 5136
+    },
+    {
+      "chapter_title_english": "Supporting the Family",
+      "chapter_title_arabic": "كتاب النفقات",
+      "chapter_title_tamil": "குடும்பத்தைப் பராமரித்தல்",
+      "chapter_title_malayalam": "കുടുംബത്തെ സംരക്ഷിക്കൽ",
+      "total_hadiths_inChapter": 22,
+      "chapter_first_hadith": 5137,
+      "chapter_last_hadith": 5158
+    },
+    {
+      "chapter_title_english": "Food, Meals",
+      "chapter_title_arabic": "كتاب الأطعمة",
+      "chapter_title_tamil": "உணவு, போஜனம்",
+      "chapter_title_malayalam": "ഭക്ഷണം, ഭക്ഷണസദസ്സുകൾ",
+      "total_hadiths_inChapter": 95,
+      "chapter_first_hadith": 5159,
+      "chapter_last_hadith": 5253
+    },
+    {
+      "chapter_title_english": "Sacrifice on Occasion of Birth (`Aqiqa)",
+      "chapter_title_arabic": "كتاب العقيقة",
+      "chapter_title_tamil": "குழந்தை பிறப்பின் போது செய்யப்படும் குர்பானி (அகீகா)",
+      "chapter_title_malayalam": "ജനനാഘോഷത്തിലെ ബലി (അഖീഖ)",
+      "total_hadiths_inChapter": 9,
+      "chapter_first_hadith": 5254,
+      "chapter_last_hadith": 5262
+    },
+    {
+      "chapter_title_english": "Hunting, Slaughtering",
+      "chapter_title_arabic": "كتاب الذبائح والصيد",
+      "chapter_title_tamil": "வேட்டையாடுதல், அறுத்தல்",
+      "chapter_title_malayalam": "വേട്ടയും അറവും",
+      "total_hadiths_inChapter": 69,
+      "chapter_first_hadith": 5263,
+      "chapter_last_hadith": 5331
+    },
+    {
+      "chapter_title_english": "Al-Adha Festival Sacrifice (Adaahi)",
+      "chapter_title_arabic": "كتاب الأضاحي",
+      "chapter_title_tamil": "அல்-அத்பா பெருநாள் குர்பானி (அதாஹி)",
+      "chapter_title_malayalam": "ഈദുൽ അദ്ഹയിലെ ബലി (അദാഹി)",
+      "total_hadiths_inChapter": 30,
+      "chapter_first_hadith": 5332,
+      "chapter_last_hadith": 5361
+    },
+    {
+      "chapter_title_english": "Drinks",
+      "chapter_title_arabic": "كتاب الأشربة",
+      "chapter_title_tamil": "பானங்கள்",
+      "chapter_title_malayalam": "പാനീയങ്ങൾ",
+      "total_hadiths_inChapter": 65,
+      "chapter_first_hadith": 5362,
+      "chapter_last_hadith": 5426
+    },
+    {
+      "chapter_title_english": "Patients",
+      "chapter_title_arabic": "كتاب المرضى",
+      "chapter_title_tamil": "நோயாளிகள்",
+      "chapter_title_malayalam": "രോഗികൾ",
+      "total_hadiths_inChapter": 37,
+      "chapter_first_hadith": 5427,
+      "chapter_last_hadith": 5463
+    },
+    {
+      "chapter_title_english": "Medicine",
+      "chapter_title_arabic": "كتاب الطب",
+      "chapter_title_tamil": "மருத்துவம்",
+      "chapter_title_malayalam": "വൈദ്യം",
+      "total_hadiths_inChapter": 93,
+      "chapter_first_hadith": 5464,
+      "chapter_last_hadith": 5556
+    },
+    {
+      "chapter_title_english": "Dress",
+      "chapter_title_arabic": "كتاب اللباس",
+      "chapter_title_tamil": "ஆடை",
+      "chapter_title_malayalam": "വസ്ത്രധാരണം",
+      "total_hadiths_inChapter": 185,
+      "chapter_first_hadith": 5557,
+      "chapter_last_hadith": 5741
+    },
+    {
+      "chapter_title_english": "Good Manners and Form (Al-Adab)",
+      "chapter_title_arabic": "كتاب الأدب",
+      "chapter_title_tamil": "நற்பண்புகளும் ஒழுக்கமும் (அல்-அதப்)",
+      "chapter_title_malayalam": "മര്യാദകളും നല്ല പെരുമാറ്റവും (അൽ-അദബ്)",
+      "total_hadiths_inChapter": 250,
+      "chapter_first_hadith": 5742,
+      "chapter_last_hadith": 5991
+    },
+    {
+      "chapter_title_english": "Asking Permission",
+      "chapter_title_arabic": "كتاب الاستئذان",
+      "chapter_title_tamil": "அனுமதி கேட்டல்",
+      "chapter_title_malayalam": "അനുമതി തേടൽ",
+      "total_hadiths_inChapter": 75,
+      "chapter_first_hadith": 5992,
+      "chapter_last_hadith": 6066
+    },
+    {
+      "chapter_title_english": "Invocations",
+      "chapter_title_arabic": "كتاب الدعوات",
+      "chapter_title_tamil": "பிரார்த்தனைகள்",
+      "chapter_title_malayalam": "പ്രാർത്ഥനകൾ",
+      "total_hadiths_inChapter": 106,
+      "chapter_first_hadith": 6067,
+      "chapter_last_hadith": 6172
+    },
+    {
+      "chapter_title_english": "To make the Heart Tender (Ar-Riqaq)",
+      "chapter_title_arabic": "كتاب الرقاق",
+      "chapter_title_tamil": "இதயத்தை மென்மையாக்குதல் (அர்-ரிகாக்)",
+      "chapter_title_malayalam": "ഹൃദയത്തെ മൃദുലമാക്കുന്ന കാര്യങ്ങൾ (അർ-രിഖാഖ്)",
+      "total_hadiths_inChapter": 181,
+      "chapter_first_hadith": 6173,
+      "chapter_last_hadith": 6353
+    },
+    {
+      "chapter_title_english": "Divine Will (Al-Qadar)",
+      "chapter_title_arabic": "كتاب القدر",
+      "chapter_title_tamil": "இறை விதி (அல்-கதர்)",
+      "chapter_title_malayalam": "അല്ലാഹുവിന്റെ വിധി (അൽ-ഖദർ)",
+      "total_hadiths_inChapter": 26,
+      "chapter_first_hadith": 6354,
+      "chapter_last_hadith": 6379
+    },
+    {
+      "chapter_title_english": "Oaths and Vows",
+      "chapter_title_arabic": "كتاب الأيمان والنذور",
+      "chapter_title_tamil": "சத்தியங்களும் நேர்ச்சைகளும்",
+      "chapter_title_malayalam": "ശപഥങ്ങളും നേർച്ചകളും",
+      "total_hadiths_inChapter": 84,
+      "chapter_first_hadith": 6380,
+      "chapter_last_hadith": 6463
+    },
+    {
+      "chapter_title_english": "Expiation for Unfulfilled Oaths",
+      "chapter_title_arabic": "كتاب كفارات الأيمان",
+      "chapter_title_tamil": "நிறைவேற்றப்படாத சத்தியங்களுக்கான பரிகாரம்",
+      "chapter_title_malayalam": "നിറവേറ്റാത്ത ശപഥങ്ങൾക്കുള്ള പ്രായശ്ചിത്തം",
+      "total_hadiths_inChapter": 15,
+      "chapter_first_hadith": 6464,
+      "chapter_last_hadith": 6478
+    },
+    {
+      "chapter_title_english": "Laws of Inheritance (Al-Faraa'id)",
+      "chapter_title_arabic": "كتاب الفرائض",
+      "chapter_title_tamil": "சுயாதீன சொத்துரிமைச் சட்டங்கள் (அல்-ஃபராயித்)",
+      "chapter_title_malayalam": "അനന്തരാവകാശ നിയമങ്ങൾ (അൽ ഫറാഇദ്)",
+      "total_hadiths_inChapter": 47,
+      "chapter_first_hadith": 6479,
+      "chapter_last_hadith": 6525
+    },
+    {
+      "chapter_title_english": "Limits and Punishments set by Allah (Hudood)",
+      "chapter_title_arabic": "كتاب الحدود",
+      "chapter_title_tamil": "அல்லாஹ் நிர்ணயித்த வரம்புகள் மற்றும் தண்டனைகள் (ஹுதூத்)",
+      "chapter_title_malayalam": "അല്ലാഹു നിശ്ചയിച്ച ശിക്ഷാ പരിധികൾ (ഹുദൂദ്)",
+      "total_hadiths_inChapter": 81,
+      "chapter_first_hadith": 6526,
+      "chapter_last_hadith": 6606
+    },
+    {
+      "chapter_title_english": "Blood Money (Ad-Diyat)",
+      "chapter_title_arabic": "كتاب الديات",
+      "chapter_title_tamil": "இரத்தப் பணம் (அத்-தியாத்)",
+      "chapter_title_malayalam": "രക്തപരിഹാരം (ദിയത്ത്)",
+      "total_hadiths_inChapter": 55,
+      "chapter_first_hadith": 6607,
+      "chapter_last_hadith": 6661
+    },
+    {
+      "chapter_title_english": "Apostates",
+      "chapter_title_arabic": "كتاب استتابة المرتدين والمعاندين وقتالهم",
+      "chapter_title_tamil": "மதமாறியவர்கள்",
+      "chapter_title_malayalam": "മതപരിത്യാഗികൾ",
+      "total_hadiths_inChapter": 21,
+      "chapter_first_hadith": 6662,
+      "chapter_last_hadith": 6682
+    },
+    {
+      "chapter_title_english": "(Statements made under) Coercion",
+      "chapter_title_arabic": "كتاب الإكراه",
+      "chapter_title_tamil": "(கட்டாயத்தின் கீழ்) கூறப்பட்ட வாக்குமூலங்கள்",
+      "chapter_title_malayalam": "നിർബന്ധിതാവസ്ഥയിൽ പറയുന്ന വാക്കുകൾ",
+      "total_hadiths_inChapter": 13,
+      "chapter_first_hadith": 6683,
+      "chapter_last_hadith": 6695
+    },
+    {
+      "chapter_title_english": "Tricks",
+      "chapter_title_arabic": "كتاب الحيل",
+      "chapter_title_tamil": "சூழ்ச்சிகள்",
+      "chapter_title_malayalam": "കുതന്ത്രങ്ങൾ",
+      "total_hadiths_inChapter": 28,
+      "chapter_first_hadith": 6696,
+      "chapter_last_hadith": 6723
+    },
+    {
+      "chapter_title_english": "Interpretation of Dreams",
+      "chapter_title_arabic": "كتاب التعبير",
+      "chapter_title_tamil": "கனவு விளக்கங்கள்",
+      "chapter_title_malayalam": "സ്വപ്നങ്ങളുടെ വ്യാഖ്യാനം",
+      "total_hadiths_inChapter": 61,
+      "chapter_first_hadith": 6724,
+      "chapter_last_hadith": 6784
+    },
+    {
+      "chapter_title_english": "Afflictions and the End of the World",
+      "chapter_title_arabic": "كتاب الفتن",
+      "chapter_title_tamil": "சோதனைகளும் உலகின் முடிவும்",
+      "chapter_title_malayalam": "അന്ത്യനാളും കുഴപ്പങ്ങളും",
+      "total_hadiths_inChapter": 83,
+      "chapter_first_hadith": 6785,
+      "chapter_last_hadith": 6867
+    },
+    {
+      "chapter_title_english": "Judgments (Ahkaam)",
+      "chapter_title_arabic": "كتاب الأحكام",
+      "chapter_title_tamil": "தீர்ப்புகள் (அஹ்காம்)",
+      "chapter_title_malayalam": "വിധികൾ (അഹ്കാം)",
+      "total_hadiths_inChapter": 84,
+      "chapter_first_hadith": 6868,
+      "chapter_last_hadith": 6951
+    },
+    {
+      "chapter_title_english": "Wishes",
+      "chapter_title_arabic": "كتاب التمنى",
+      "chapter_title_tamil": "விருப்பங்கள்",
+      "chapter_title_malayalam": "ആഗ്രഹങ്ങൾ",
+      "total_hadiths_inChapter": 20,
+      "chapter_first_hadith": 6952,
+      "chapter_last_hadith": 6971
+    },
+    {
+      "chapter_title_english": "Accepting Information Given by a Truthful Person",
+      "chapter_title_arabic": "كتاب أخبار الآحاد",
+      "chapter_title_tamil": "உண்மையாளர் வழங்கும் தகவலை ஏற்றுக்கொள்வது",
+      "chapter_title_malayalam": "സത്യസന്ധനായ വ്യക്തി നൽകുന്ന വിവരം സ്വീകരിക്കൽ",
+      "total_hadiths_inChapter": 21,
+      "chapter_first_hadith": 6972,
+      "chapter_last_hadith": 6992
+    },
+    {
+      "chapter_title_english": "Holding Fast to the Qur'an and Sunnah",
+      "chapter_title_arabic": "كتاب الاعتصام بالكتاب والسنة",
+      "chapter_title_tamil": "குர்ஆன் மற்றும் சுன்னாவைப் பலமாகப் பற்றிக் கொள்ளுதல்",
+      "chapter_title_malayalam": "ഖുർആനും സുന്നത്തും മുറുകെപ്പിടിക്കൽ",
+      "total_hadiths_inChapter": 97,
+      "chapter_first_hadith": 6993,
+      "chapter_last_hadith": 7089
+    },
+    {
+      "chapter_title_english": "Oneness, Uniqueness of Allah (Tawheed)",
+      "chapter_title_arabic": "كتاب التوحيد",
+      "chapter_title_tamil": "அல்லாஹ்வின் ஏகத்துவம், தனித்தன்மை (தவ்ஹீத்)",
+      "chapter_title_malayalam": "അല്ലാഹുവിന്റെ ഏകത്വവും അദ്വിതീയതയും (തൗഹീദ്)",
+      "total_hadiths_inChapter": 188,
+      "chapter_first_hadith": 7090,
+      "chapter_last_hadith": 7277
+    }
+  ]
+}

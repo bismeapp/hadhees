@@ -1,0 +1,696 @@
+:root {
+  --color-deep-emerald: #064E3B;
+  --color-dark-forest: #022C22;
+  --color-emerald: #047857;
+  --color-accent-green: #10B981;
+  --color-antique-gold: #D4AF37;
+  --color-light-gold: #F5D76E;
+  --color-dark-gold: #B8860B;
+  --color-warm-ivory: #F8F5E9;
+  --color-white: #FFFFFF;
+  --gradient-primary: linear-gradient(115deg, #022C22 0%, #064E3B 45%, #047857 100%);
+  --gradient-gold: linear-gradient(110deg, #B8860B 0%, #D4AF37 50%, #F5D76E 100%);
+  --color-text-primary: #022C22;
+  --color-text-secondary: #064E3B;
+  --color-border: rgba(212, 175, 55, 0.4);
+  --color-card-border: rgba(212, 175, 55, 0.35);
+  --color-card-shadow: rgba(2, 44, 34, 0.10);
+  --ink: var(--color-text-primary);
+  --muted: var(--color-text-secondary);
+  --subtle: var(--color-emerald);
+  --green: var(--color-deep-emerald);
+  --deep-green: var(--color-dark-forest);
+  --forest: var(--color-emerald);
+  --gold: var(--color-antique-gold);
+  --gold-light: var(--color-light-gold);
+  --green-gold: var(--gradient-primary);
+  --paper: var(--color-warm-ivory);
+  --surface: var(--color-white);
+  --line: var(--color-border);
+  --line-strong: var(--color-antique-gold);
+  --reading-scale: 1;
+  --shadow: 0 12px 35px var(--color-card-shadow);
+}
+
+:root[data-theme='dark'] {
+  --ink: var(--color-warm-ivory);
+  --muted: var(--color-light-gold);
+  --subtle: var(--color-antique-gold);
+  --green: var(--color-light-gold);
+  --deep-green: var(--color-dark-forest);
+  --forest: var(--color-deep-emerald);
+  --paper: var(--color-dark-forest);
+  --surface: var(--color-deep-emerald);
+}
+
+body,
+.main-column {
+  background: var(--color-warm-ivory);
+  color: var(--color-text-secondary);
+}
+
+.sidebar {
+  background: var(--color-deep-emerald);
+  color: var(--color-warm-ivory);
+}
+
+.brand-logo {
+  border-color: var(--color-antique-gold);
+  background: var(--color-dark-forest);
+}
+
+.brand strong,
+.brand small {
+  color: var(--color-light-gold);
+}
+
+.sidebar-caption,
+.sidebar-footer {
+  color: var(--color-warm-ivory);
+}
+
+.nav-link {
+  color: var(--color-warm-ivory);
+}
+
+.nav-link:hover,
+.nav-link.active {
+  border: 1px solid var(--color-antique-gold);
+  background: var(--color-emerald);
+  color: var(--color-light-gold);
+}
+
+.sidebar-note {
+  border-color: var(--color-border);
+  background: color-mix(in srgb, var(--color-dark-forest) 38%, transparent);
+}
+
+.sidebar-note p,
+.sidebar-note small {
+  color: var(--color-warm-ivory);
+}
+
+.topbar {
+  border-bottom: 1px solid var(--color-antique-gold);
+  background: var(--color-dark-forest);
+}
+
+.breadcrumb {
+  color: var(--color-white);
+}
+
+.breadcrumb > span:first-child {
+  color: var(--color-light-gold);
+}
+
+.topbar .breadcrumb {
+  color: var(--color-white);
+}
+
+.language-chip {
+  color: var(--color-white);
+}
+
+.top-search,
+.top-search kbd {
+  border-color: var(--color-antique-gold);
+  background: var(--color-white);
+  color: var(--color-dark-forest);
+}
+
+.top-search:hover {
+  border-color: var(--color-light-gold);
+  color: var(--color-deep-emerald);
+}
+
+.language-dot,
+.status-dot {
+  background: var(--color-accent-green);
+}
+
+.page-content {
+  color: var(--color-text-secondary);
+}
+
+.page-content h1,
+.page-content h2,
+.page-content h3,
+.chapter-reader-banner h1,
+.chapter-list-heading h2 {
+  color: var(--color-dark-forest);
+}
+
+.page-content p,
+.page-content small,
+.page-content label,
+.chapter-reader-count,
+.chapter-row-copy small,
+.surah-card-copy small,
+.reader-note,
+.history-row time {
+  color: var(--color-text-secondary);
+}
+
+.page-heading h1,
+.welcome-copy h1,
+.surah-banner h2,
+.hadith-title,
+.settings-card-heading h2 {
+  color: var(--color-dark-forest);
+}
+
+.page-heading p,
+.breadcrumb,
+.soft-label,
+.saved-copy p,
+.history-copy > span {
+  color: var(--color-text-secondary);
+}
+
+.eyebrow,
+.collection-kicker,
+.hadith-number,
+.saved-copy > small,
+.history-copy > small {
+  color: var(--color-emerald);
+}
+
+.welcome-panel,
+.collection-detail-banner {
+  background: var(--gradient-primary);
+}
+
+.welcome-panel::before,
+.welcome-panel::after,
+.collection-detail-banner::after,
+.welcome-emblem {
+  border-color: var(--color-border);
+}
+
+.welcome-pattern {
+  background-image:
+    linear-gradient(30deg, transparent 47%, var(--color-border) 48%, var(--color-border) 49%, transparent 50%),
+    linear-gradient(150deg, transparent 47%, var(--color-border) 48%, var(--color-border) 49%, transparent 50%);
+}
+
+.welcome-panel,
+.welcome-copy h1,
+.welcome-description,
+.welcome-secondary,
+.collection-detail-banner,
+.collection-detail-copy h1,
+.collection-detail-description,
+.collection-detail-stats {
+  color: var(--color-warm-ivory);
+}
+
+.welcome-copy h1 em,
+.bismillah,
+.welcome-emblem,
+.collection-detail-arabic,
+.collection-detail-stats strong {
+  color: var(--color-light-gold);
+}
+
+.welcome-panel .eyebrow,
+.collection-detail-banner .eyebrow {
+  color: var(--color-light-gold);
+}
+
+.button-primary {
+  border: 1px solid var(--color-antique-gold);
+  background: var(--gradient-primary);
+  color: var(--color-light-gold);
+}
+
+.button-primary:hover {
+  border-color: var(--color-light-gold);
+  background: linear-gradient(115deg, var(--color-deep-emerald) 0%, var(--color-emerald) 55%, var(--color-accent-green) 100%);
+  color: var(--color-white);
+}
+
+.button-light,
+.button-quiet {
+  border: 1px solid var(--color-antique-gold);
+  background: var(--color-warm-ivory);
+  color: var(--color-deep-emerald);
+}
+
+.button-light:hover,
+.button-quiet:hover {
+  border-color: var(--color-dark-gold);
+  background: color-mix(in srgb, var(--color-light-gold) 24%, var(--color-warm-ivory));
+  color: var(--color-dark-forest);
+}
+
+.button-gold {
+  border: 1px solid var(--color-dark-gold);
+  background: var(--gradient-gold);
+  color: var(--color-dark-forest);
+}
+
+.button-gold:hover {
+  border-color: var(--color-dark-forest);
+  background: var(--gradient-gold);
+}
+
+.surah-card,
+.library-feature,
+.quran-feature,
+.hadith-feature,
+.surah-banner,
+.chapter-reader-banner,
+.hadith-collection-card,
+.hadith-card,
+.saved-card,
+.settings-card,
+.search-form,
+.search-result,
+.data-alert,
+.error-state,
+.loading-state {
+  border-color: var(--color-card-border);
+  background-color: var(--color-white);
+  box-shadow: 0 8px 26px var(--color-card-shadow);
+}
+
+.quran-feature,
+.hadith-feature {
+  background: var(--color-white);
+}
+
+.surah-card:hover,
+.hadith-collection-card:hover {
+  border-color: var(--color-antique-gold);
+  box-shadow: 0 12px 30px var(--color-card-shadow);
+}
+
+.surah-card-copy strong,
+.surah-card-arabic,
+.collection-arabic,
+.back-link,
+.chapter-row-copy strong,
+.chapter-row-arabic,
+.history-open {
+  color: var(--color-deep-emerald);
+}
+
+.surah-number,
+.verse-number {
+  border-color: var(--color-antique-gold);
+  color: var(--color-dark-gold);
+}
+
+.quran-toolbar,
+.font-size-control {
+  border-color: var(--color-border);
+  background: var(--color-white);
+}
+
+.quran-reading-text,
+.quran-verse-arabic,
+.hadith-arabic {
+  color: var(--color-dark-forest);
+}
+
+.ayah-end {
+  border-color: var(--color-dark-gold);
+  color: var(--color-dark-gold);
+}
+
+.translation-verse,
+.hadith-translation {
+  color: var(--color-deep-emerald);
+}
+
+.translation-unavailable,
+.translation-loading,
+.availability-notice,
+.missing-translation,
+.arabic-unavailable {
+  border-color: var(--color-border);
+  background: color-mix(in srgb, var(--color-light-gold) 18%, var(--color-white));
+  color: var(--color-deep-emerald);
+}
+
+.hadith-card {
+  border-color: var(--color-border);
+  background: var(--color-white);
+}
+
+.hadith-divider {
+  color: var(--color-antique-gold);
+}
+
+.hadith-divider::before,
+.hadith-divider::after,
+.surah-banner::before,
+.surah-banner::after {
+  background: var(--color-antique-gold);
+}
+
+.hadith-grade,
+.collection-card-icon,
+.continue-icon,
+.result-kind,
+.search-mode.active,
+.segmented-control button.selected {
+  border-color: var(--color-border);
+  background: color-mix(in srgb, var(--color-emerald) 12%, var(--color-white));
+  color: var(--color-deep-emerald);
+}
+
+.hadith-narrator,
+.saved-copy blockquote,
+.hadith-collection-card > strong {
+  color: var(--color-text-secondary);
+}
+
+.page-content p.hadith-arabic {
+  color: var(--color-dark-forest);
+}
+
+.page-content .surah-banner h1,
+.surah-banner-top {
+  color: var(--color-deep-emerald);
+}
+
+.banner-ornament {
+  color: var(--color-antique-gold);
+}
+
+.page-content p.hadith-translation,
+.page-content p.translation-verse {
+  color: var(--color-text-secondary);
+}
+
+.text-search,
+.home-search,
+.home-search input,
+.search-box,
+.search-box input,
+.search-page-box input,
+.chapter-search input,
+.text-search:focus,
+.chapter-search,
+.search-page-box,
+.select-label select,
+.setting-row select,
+.chapter-jump select {
+  border-color: var(--color-antique-gold);
+  background: var(--color-white);
+  color: var(--color-dark-forest);
+}
+
+.text-search:focus,
+.home-search:focus-within,
+.top-search:focus-within,
+.search-box:focus-within,
+.search-page-box:focus-within {
+  outline: 2px solid var(--color-accent-green);
+  outline-offset: 2px;
+}
+
+.icon-button {
+  color: var(--color-emerald);
+}
+
+.icon-button:hover,
+.icon-button.selected {
+  border-color: var(--color-antique-gold);
+  color: var(--color-antique-gold);
+}
+
+.chapter-list-heading h2,
+.search-results-heading h2,
+.saved-copy h2,
+.history-copy strong,
+.settings-card-heading h2 {
+  color: var(--color-dark-forest);
+}
+
+.chapter-index,
+.surah-card-copy i,
+.reader-note svg,
+.settings-icon,
+.font-setting button {
+  color: var(--color-dark-gold);
+}
+
+.hadith-chapter-row,
+.history-row,
+.setting-row {
+  border-color: var(--color-border);
+}
+
+.hadith-chapter-row:hover,
+.search-result:hover {
+  background: color-mix(in srgb, var(--color-emerald) 8%, var(--color-white));
+}
+
+.saved-copy blockquote {
+  border-color: var(--color-antique-gold);
+  color: var(--color-text-secondary);
+}
+
+.settings-card,
+.dialog,
+dialog,
+[role='dialog'] {
+  border-color: var(--color-antique-gold);
+  background: var(--color-warm-ivory);
+  color: var(--color-text-secondary);
+}
+
+.data-alert,
+.error-state {
+  border-color: var(--color-antique-gold);
+  background: color-mix(in srgb, var(--color-light-gold) 18%, var(--color-warm-ivory));
+  color: var(--color-deep-emerald);
+}
+
+.data-alert strong,
+.error-state strong,
+.error-state p {
+  color: var(--color-dark-forest);
+}
+
+.empty-state,
+.empty-state h2,
+.empty-state p,
+.loading-state,
+.loading-state strong {
+  color: var(--color-deep-emerald);
+}
+
+.error-state .button,
+.data-alert .button {
+  flex-shrink: 0;
+}
+
+.settings-card,
+.settings-card-heading,
+.setting-row {
+  color: var(--color-text-secondary);
+}
+
+.setting-row strong,
+.settings-card-heading h2 {
+  color: var(--color-dark-forest);
+}
+
+.setting-row select,
+.select-label select,
+.chapter-jump select {
+  color-scheme: light;
+}
+
+.font-setting input,
+.toggle-control input {
+  accent-color: var(--color-emerald);
+}
+
+.search-error,
+.inline-error {
+  border-color: var(--color-antique-gold);
+  color: var(--color-dark-forest);
+}
+
+.status-icon {
+  border: 1px solid var(--color-antique-gold);
+  background: var(--color-light-gold);
+  color: var(--color-dark-forest);
+}
+
+.settings-card-heading h2,
+.dialog h1,
+.dialog h2,
+dialog h1,
+dialog h2,
+[role='dialog'] h1,
+[role='dialog'] h2 {
+  color: var(--color-dark-forest);
+}
+
+.mobile-footer {
+  border-top: 1px solid var(--color-antique-gold);
+  background: var(--color-dark-forest);
+}
+
+.mobile-nav-link {
+  color: var(--color-warm-ivory);
+}
+
+.mobile-nav-link.active,
+.mobile-nav-link:hover {
+  color: var(--color-light-gold);
+}
+
+.database-status {
+  border-color: var(--color-border);
+  background: var(--color-white);
+  color: var(--color-deep-emerald);
+}
+
+:root[data-theme='dark'] .welcome-panel,
+:root[data-theme='dark'] .collection-detail-banner {
+  background: var(--gradient-primary);
+}
+
+:root[data-theme='dark'] .hadith-grade,
+:root[data-theme='dark'] .search-mode.active,
+:root[data-theme='dark'] .segmented-control button.selected {
+  background: var(--color-dark-forest);
+  color: var(--color-light-gold);
+}
+
+@media (max-width: 780px) {
+  .topbar {
+    background: var(--color-dark-forest);
+  }
+}
+
+.surah-card,
+.library-feature,
+.quran-feature,
+.hadith-feature,
+.surah-banner,
+.chapter-reader-banner,
+.hadith-collection-card,
+.saved-card,
+.settings-card,
+.search-form,
+.search-result {
+  border-color: var(--color-card-border);
+}
+
+.surah-card:hover,
+.library-feature:hover,
+.quran-feature:hover,
+.hadith-feature:hover,
+.hadith-collection-card:hover,
+.hadith-card:hover,
+.saved-card:hover,
+.settings-card:hover,
+.search-result:hover {
+  border-color: var(--color-antique-gold);
+}
+
+.hadith-card {
+  border-color: var(--color-border);
+}
+
+.chapter-row-arrow,
+.collection-mini > svg,
+.result-arrow {
+  color: var(--color-emerald);
+}
+
+.collection-arabic,
+.chapter-row-arabic,
+.hadith-reference {
+  color: var(--color-emerald);
+}
+
+.collection-detail-banner .localized-title {
+  color: var(--color-warm-ivory);
+}
+
+.page-content .welcome-panel .greeting,
+.page-content .welcome-panel .welcome-description,
+.page-content .welcome-panel .welcome-secondary,
+.page-content .collection-detail-banner .collection-detail-description,
+.page-content .collection-detail-banner .collection-detail-stats,
+.page-content .collection-detail-banner .localized-title {
+  color: var(--color-warm-ivory);
+}
+
+.page-content .welcome-panel .bismillah,
+.page-content .welcome-panel .welcome-copy h1 em,
+.page-content .collection-detail-banner .collection-detail-arabic,
+.page-content .collection-detail-banner .collection-detail-stats strong {
+  color: var(--color-light-gold);
+}
+
+.hadith-narrator,
+.transliteration-verse {
+  color: var(--color-emerald);
+}
+
+.hadith-divider {
+  color: var(--color-antique-gold);
+}
+
+.hadith-divider::before,
+.hadith-divider::after {
+  background: var(--color-antique-gold);
+}
+
+.chapter-index,
+.mini-ornament,
+.closing-quote,
+.reader-note svg,
+.settings-icon,
+.font-setting button {
+  color: var(--color-dark-gold);
+}
+
+.text-button:hover,
+.back-link:hover {
+  color: var(--color-emerald);
+}
+
+.search-error,
+.inline-error,
+.arabic-unavailable {
+  color: var(--color-deep-emerald);
+}
+
+.status-icon {
+  border: 1px solid var(--color-antique-gold);
+  background: color-mix(in srgb, var(--color-light-gold) 35%, var(--color-warm-ivory));
+  color: var(--color-dark-forest);
+}
+
+.button:focus-visible,
+.icon-button:focus-visible {
+  outline: 2px solid var(--color-accent-green);
+  outline-offset: 2px;
+}
+
+:root[data-theme='dark'] .error-state,
+:root[data-theme='dark'] .data-alert {
+  border-color: var(--color-antique-gold);
+  background: color-mix(in srgb, var(--color-deep-emerald) 75%, var(--color-dark-forest));
+  color: var(--color-warm-ivory);
+}
+
+:root[data-theme='dark'] .error-state strong,
+:root[data-theme='dark'] .error-state p,
+:root[data-theme='dark'] .data-alert strong {
+  color: var(--color-light-gold);
+}
+
+:root[data-theme='dark'] .hadith-grade span {
+  background: var(--color-accent-green);
+}

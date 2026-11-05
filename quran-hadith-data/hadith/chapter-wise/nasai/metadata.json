@@ -1,0 +1,470 @@
+{
+  "book_name_english": "nasai",
+  "book_name_arabic": "سنن النسائي",
+  "book_name_tamil": "சுனன் அன்-நஸாயீ",
+  "book_name_malayalam": "സുനൻ അൻ-നസാഈ",
+  "book_short_desc": "Sunan an-Nasā'ī is a collection of hadīth compiled by Imām Aḥmad an-Nasā'ī (rahimahullāh). His collection is unanimously considered to be one of the six canonical collections of hadith (Kutub as-Sittah) of the Sunnah of the Prophet (). It contains roughly 5700 hadīth (with repetitions) in 51 books.",
+  "total_hadiths_inBook": 5685,
+  "total_chapters_inBook": 51,
+  "all_chapters_detail": [
+    {
+      "chapter_title_english": "The Book of Purification",
+      "chapter_title_arabic": "كتاب الطهارة",
+      "chapter_title_tamil": "தஹாரத் (தூய்மை) நூல்",
+      "chapter_title_malayalam": "ശുദ്ധീകരണത്തിന്റെ അധ്യായം",
+      "total_hadiths_inChapter": 325,
+      "chapter_first_hadith": 1,
+      "chapter_last_hadith": 325
+    },
+    {
+      "chapter_title_english": "The Book of Water",
+      "chapter_title_arabic": "كتاب المياه",
+      "chapter_title_tamil": "كتاب المياه (நீர் தொடர்பான பாடம்)",
+      "chapter_title_malayalam": "വെള്ളങ്ങളുടെ അധ്യായം",
+      "total_hadiths_inChapter": 23,
+      "chapter_first_hadith": 326,
+      "chapter_last_hadith": 348
+    },
+    {
+      "chapter_title_english": "The Book of Menstruation and Istihadah",
+      "chapter_title_arabic": "كتاب الحيض والاستحاضة",
+      "chapter_title_tamil": "மாதவிடாய் மற்றும் ஒழுங்கற்ற கருப்பை இரத்தப்போக்கு பற்றிய அத்தியாயம்",
+      "chapter_title_malayalam": "ആർത്തവവും ഇസ്തിഹാദയും",
+      "total_hadiths_inChapter": 48,
+      "chapter_first_hadith": 349,
+      "chapter_last_hadith": 396
+    },
+    {
+      "chapter_title_english": "The Book of Ghusl and Tayammum",
+      "chapter_title_arabic": "كتاب الغسل والتيمم",
+      "chapter_title_tamil": "குளியல் மற்றும் தயம்மும் பற்றிய நூல்",
+      "chapter_title_malayalam": "കുളിയും തയമ്മുമും",
+      "total_hadiths_inChapter": 53,
+      "chapter_first_hadith": 397,
+      "chapter_last_hadith": 449
+    },
+    {
+      "chapter_title_english": "The Book of Salah",
+      "chapter_title_arabic": "كتاب الصلاة",
+      "chapter_title_tamil": "தொழுகை நூல் (கிதாபுஸ் ஸலாஹ்)",
+      "chapter_title_malayalam": "നമസ്കാരത്തിന്റെ അധ്യായം",
+      "total_hadiths_inChapter": 46,
+      "chapter_first_hadith": 450,
+      "chapter_last_hadith": 495
+    },
+    {
+      "chapter_title_english": "The Book of the Times (of Prayer)",
+      "chapter_title_arabic": "كتاب المواقيت",
+      "chapter_title_tamil": "தொழுகை நேரங்கள் பற்றிய நூல் (கிதாபுல் மவாகீத்)",
+      "chapter_title_malayalam": "സമയങ്ങളുടെ അധ്യായം",
+      "total_hadiths_inChapter": 132,
+      "chapter_first_hadith": 496,
+      "chapter_last_hadith": 627
+    },
+    {
+      "chapter_title_english": "The Book of the Adhan (The Call to Prayer)",
+      "chapter_title_arabic": "كتاب الأذان",
+      "chapter_title_tamil": "பாங்கு (அதான்) அத்தியாயம்",
+      "chapter_title_malayalam": "ബാങ്കിന്റെ അധ്യായം",
+      "total_hadiths_inChapter": 62,
+      "chapter_first_hadith": 628,
+      "chapter_last_hadith": 689
+    },
+    {
+      "chapter_title_english": "The Book of the Masjids",
+      "chapter_title_arabic": "كتاب المساجد",
+      "chapter_title_tamil": "பள்ளிவாசல்கள் (மஸாஜித்) அத்தியாயம்",
+      "chapter_title_malayalam": "പള്ളികളുടെ അധ്യായം",
+      "total_hadiths_inChapter": 54,
+      "chapter_first_hadith": 690,
+      "chapter_last_hadith": 743
+    },
+    {
+      "chapter_title_english": "The Book of the Qiblah",
+      "chapter_title_arabic": "كتاب القبلة",
+      "chapter_title_tamil": "கிப்லா (தொழுகையின் திசை) பற்றிய நூல்",
+      "chapter_title_malayalam": "ഖിബ്‌ലയുടെ അധ്യായം",
+      "total_hadiths_inChapter": 35,
+      "chapter_first_hadith": 744,
+      "chapter_last_hadith": 778
+    },
+    {
+      "chapter_title_english": "The Book of Leading the Prayer (Al-Imamah)",
+      "chapter_title_arabic": "كتاب الإمامة",
+      "chapter_title_tamil": "தலைமைத்துவம் (இமாமத்) அத்தியாயம்",
+      "chapter_title_malayalam": "ഇമാമത്തിന്റെ അധ്യായം",
+      "total_hadiths_inChapter": 99,
+      "chapter_first_hadith": 779,
+      "chapter_last_hadith": 877
+    },
+    {
+      "chapter_title_english": "The Book of the Commencement of the Prayer",
+      "chapter_title_arabic": "كتاب الافتتاح",
+      "chapter_title_tamil": "தொழுகையைத் தொடங்குதல் (அல்-இஃப்திதாஹ்) அத்தியாயம்",
+      "chapter_title_malayalam": "ആരംഭത്തിന്റെ അധ്യായം",
+      "total_hadiths_inChapter": 153,
+      "chapter_first_hadith": 878,
+      "chapter_last_hadith": 1030
+    },
+    {
+      "chapter_title_english": "The Book of The At-Tatbiq (Clasping One's Hands Together)",
+      "chapter_title_arabic": "كتاب التطبيق",
+      "chapter_title_tamil": "அத்-தத்பீக் (தொழுகையில் இரு கைகளையும் ஒன்றிணைத்துக் கொள்ளுதல்) நூல்",
+      "chapter_title_malayalam": "തത്ബീഖിന്റെ അധ്യായം",
+      "total_hadiths_inChapter": 150,
+      "chapter_first_hadith": 1031,
+      "chapter_last_hadith": 1180
+    },
+    {
+      "chapter_title_english": "The Book of Forgetfulness (In Prayer)",
+      "chapter_title_arabic": "كتاب السهو",
+      "chapter_title_tamil": "மறதிக்கான ஸஜ்தா பாடம் (கிதாபுஸ் ஸஹ்வு)",
+      "chapter_title_malayalam": "മറവിയുടെ സജ്ദയുടെ അധ്യായം",
+      "total_hadiths_inChapter": 188,
+      "chapter_first_hadith": 1181,
+      "chapter_last_hadith": 1368
+    },
+    {
+      "chapter_title_english": "The Book of Jumu'ah (Friday Prayer)",
+      "chapter_title_arabic": "كتاب الجمعة",
+      "chapter_title_tamil": "ஜும்ஆ (வெள்ளிக்கிழமை தொழுகை) அத்தியாயம்",
+      "chapter_title_malayalam": "ജുമുഅയുടെ അധ്യായം",
+      "total_hadiths_inChapter": 69,
+      "chapter_first_hadith": 1369,
+      "chapter_last_hadith": 1437
+    },
+    {
+      "chapter_title_english": "The Book of Shortening the Prayer When Traveling",
+      "chapter_title_arabic": "كتاب تقصير الصلاة فى السفر",
+      "chapter_title_tamil": "பயணத்தில் தொழுகையைச் சுருக்குதல் (கஸ்ர் செய்தல்) பற்றிய பாடம்",
+      "chapter_title_malayalam": "യാത്രയിൽ നമസ്കാരം ചുരുക്കൽ",
+      "total_hadiths_inChapter": 26,
+      "chapter_first_hadith": 1438,
+      "chapter_last_hadith": 1463
+    },
+    {
+      "chapter_title_english": "The Book of Eclipses",
+      "chapter_title_arabic": "كتاب الكسوف",
+      "chapter_title_tamil": "கிரகணத் தொழுகை பற்றிய பாடம்",
+      "chapter_title_malayalam": "ഗ്രഹണ നമസ്കാരത്തിന്റെ അധ്യായം",
+      "total_hadiths_inChapter": 45,
+      "chapter_first_hadith": 1464,
+      "chapter_last_hadith": 1508
+    },
+    {
+      "chapter_title_english": "The Book of Praying for Rain (Al-Istisqa')",
+      "chapter_title_arabic": "كتاب الاستسقاء",
+      "chapter_title_tamil": "மழை வேண்டிப் பிரார்த்தித்தல் (இஸ்திஸ்கா) பற்றிய பாடம்",
+      "chapter_title_malayalam": "മഴക്കായുള്ള പ്രാർത്ഥനയുടെ അധ്യായം",
+      "total_hadiths_inChapter": 25,
+      "chapter_first_hadith": 1509,
+      "chapter_last_hadith": 1533
+    },
+    {
+      "chapter_title_english": "The Book of the Fear Prayer",
+      "chapter_title_arabic": "كتاب صلاة الخوف",
+      "chapter_title_tamil": "அச்சத்தின் போதான தொழுகை (ஸலாத்துல் கவ்ஃப்) பற்றிய பாடம்",
+      "chapter_title_malayalam": "ഭയവേളയിലെ നമസ്കാരത്തിന്റെ അധ്യായം",
+      "total_hadiths_inChapter": 27,
+      "chapter_first_hadith": 1534,
+      "chapter_last_hadith": 1560
+    },
+    {
+      "chapter_title_english": "The Book of the Prayer for the Two 'Eids",
+      "chapter_title_arabic": "كتاب صلاة العيدين",
+      "chapter_title_tamil": "இரு பெருநாள் தொழுகைகள் பற்றிய பாடம்",
+      "chapter_title_malayalam": "പെരുന്നാൾ നമസ്കാരങ്ങളുടെ അധ്യായം",
+      "total_hadiths_inChapter": 42,
+      "chapter_first_hadith": 1561,
+      "chapter_last_hadith": 1602
+    },
+    {
+      "chapter_title_english": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+      "chapter_title_arabic": "كتاب قيام الليل وتطوع النهار",
+      "chapter_title_tamil": "இரவுத் தொழுகை மற்றும் பகலின் உபரி (நபில்) தொழுகைகள் பற்றிய பாடம்",
+      "chapter_title_malayalam": "രാത്രി നമസ്കാരവും പകൽ സുന്നത്ത് നമസ്കാരങ്ങളും",
+      "total_hadiths_inChapter": 220,
+      "chapter_first_hadith": 1603,
+      "chapter_last_hadith": 1822
+    },
+    {
+      "chapter_title_english": "The Book of Funerals",
+      "chapter_title_arabic": "كتاب الجنائز",
+      "chapter_title_tamil": "ஜனாஸா (இறுதிச் சடங்கு) நூல்",
+      "chapter_title_malayalam": "ജനാസകളുടെ പുസ്തകം",
+      "total_hadiths_inChapter": 272,
+      "chapter_first_hadith": 1823,
+      "chapter_last_hadith": 2094
+    },
+    {
+      "chapter_title_english": "The Book of Fasting",
+      "chapter_title_arabic": "كتاب الصيام",
+      "chapter_title_tamil": "ஸியாம் (நோன்பு) நூல்",
+      "chapter_title_malayalam": "നോമ്പിന്റെ പുസ്തകം",
+      "total_hadiths_inChapter": 345,
+      "chapter_first_hadith": 2095,
+      "chapter_last_hadith": 2439
+    },
+    {
+      "chapter_title_english": "The Book of Zakah",
+      "chapter_title_arabic": "كتاب الزكاة",
+      "chapter_title_tamil": "ஜகாத் (ஏழை வரி) நூல்",
+      "chapter_title_malayalam": "സകാത്തിന്റെ പുസ്തകം",
+      "total_hadiths_inChapter": 184,
+      "chapter_first_hadith": 2440,
+      "chapter_last_hadith": 2623
+    },
+    {
+      "chapter_title_english": "The Book of Hajj",
+      "chapter_title_arabic": "كتاب مناسك الحج",
+      "chapter_title_tamil": "ஹஜ்ஜின் வழிமுறைகள் நூல்",
+      "chapter_title_malayalam": "ഹജ്ജ് കർമ്മങ്ങളുടെ പുസ്തകം",
+      "total_hadiths_inChapter": 467,
+      "chapter_first_hadith": 2624,
+      "chapter_last_hadith": 3090
+    },
+    {
+      "chapter_title_english": "The Book of Jihad",
+      "chapter_title_arabic": "كتاب الجهاد",
+      "chapter_title_tamil": "ஜிஹாத் (புனிதப் போர்) நூல்",
+      "chapter_title_malayalam": "ജിഹാദിന്റെ പുസ്തകം",
+      "total_hadiths_inChapter": 111,
+      "chapter_first_hadith": 3091,
+      "chapter_last_hadith": 3201
+    },
+    {
+      "chapter_title_english": "The Book of Marriage",
+      "chapter_title_arabic": "كتاب النكاح",
+      "chapter_title_tamil": "நிகாஹ் (திருமணம்) நூல்",
+      "chapter_title_malayalam": "വിവാഹത്തിന്റെ പുസ്തകം",
+      "total_hadiths_inChapter": 193,
+      "chapter_first_hadith": 3202,
+      "chapter_last_hadith": 3394
+    },
+    {
+      "chapter_title_english": "The Book of Divorce",
+      "chapter_title_arabic": "كتاب الطلاق",
+      "chapter_title_tamil": "தலாக் (விவாகரத்து) நூல்",
+      "chapter_title_malayalam": "വിവാഹമോചനത്തിന്റെ പുസ്തകം",
+      "total_hadiths_inChapter": 174,
+      "chapter_first_hadith": 3395,
+      "chapter_last_hadith": 3568
+    },
+    {
+      "chapter_title_english": "The Book of Horses, Races and Shooting",
+      "chapter_title_arabic": "كتاب الخيل",
+      "chapter_title_tamil": "குதிரைகள் பற்றிய நூல்",
+      "chapter_title_malayalam": "കുതിരകളുടെ പുസ്തകം",
+      "total_hadiths_inChapter": 33,
+      "chapter_first_hadith": 3569,
+      "chapter_last_hadith": 3601
+    },
+    {
+      "chapter_title_english": "The Book of Endowments",
+      "chapter_title_arabic": "كتاب الإحباس",
+      "chapter_title_tamil": "அல்-இஹ்பாஸ் (நிலங்களை அறக்கொடையாக வழங்குதல்) நூல்",
+      "chapter_title_malayalam": "വഖ്ഫിന്റെ പുസ്തകം",
+      "total_hadiths_inChapter": 17,
+      "chapter_first_hadith": 3602,
+      "chapter_last_hadith": 3618
+    },
+    {
+      "chapter_title_english": "The Book of Wills",
+      "chapter_title_arabic": "كتاب الوصايا",
+      "chapter_title_tamil": "வஸிய்யத் (மரண சாசனம்/உயில்) நூல்",
+      "chapter_title_malayalam": "വസ്വിയ്യത്തുകളുടെ പുസ്തകം",
+      "total_hadiths_inChapter": 61,
+      "chapter_first_hadith": 3619,
+      "chapter_last_hadith": 3679
+    },
+    {
+      "chapter_title_english": "The Book of Presents",
+      "chapter_title_arabic": "كتاب النحل",
+      "chapter_title_tamil": "அந்-நிஹ்ல் (பிள்ளைகளுக்கான அன்பளிப்பு) நூல்",
+      "chapter_title_malayalam": "നിഹ്‌ലിന്റെ (മക്കൾക്കുള്ള ദാനത്തിന്റെ) പുസ്തകം",
+      "total_hadiths_inChapter": 16,
+      "chapter_first_hadith": 3680,
+      "chapter_last_hadith": 3695
+    },
+    {
+      "chapter_title_english": "The Book of Gifts",
+      "chapter_title_arabic": "كتاب الهبة",
+      "chapter_title_tamil": "ஹிபா (அன்பளிப்பு) நூல்",
+      "chapter_title_malayalam": "ഹിബയുടെ (സമ്മാനങ്ങളുടെ) പുസ്തകം",
+      "total_hadiths_inChapter": 18,
+      "chapter_first_hadith": 3696,
+      "chapter_last_hadith": 3713
+    },
+    {
+      "chapter_title_english": "The Book of ar-Ruqba",
+      "chapter_title_arabic": "كتاب الرقبى",
+      "chapter_title_tamil": "அர்-ருஃக்பா (வாழ்நாள் நிபந்தனை அன்பளிப்பு) நூல்",
+      "chapter_title_malayalam": "റുഖ്ബയുടെ പുസ്തകം",
+      "total_hadiths_inChapter": 14,
+      "chapter_first_hadith": 3714,
+      "chapter_last_hadith": 3727
+    },
+    {
+      "chapter_title_english": "The Book of 'Umra",
+      "chapter_title_arabic": "كتاب العمرى",
+      "chapter_title_tamil": "அல்-உம்ரா (வாழ்நாள் பயன்பாட்டு உரிமை) நூல்",
+      "chapter_title_malayalam": "ഉംറയുടെ (ജീവിതകാല ദാനത്തിന്റെ) പുസ്തകം",
+      "total_hadiths_inChapter": 42,
+      "chapter_first_hadith": 3728,
+      "chapter_last_hadith": 3769
+    },
+    {
+      "chapter_title_english": "The Book of Oaths and Vows",
+      "chapter_title_arabic": "كتاب الأيمان والنذور",
+      "chapter_title_tamil": "அல்-அய்மான் வந்-நுதுர் (சத்தியங்களும் நேர்ச்சைகளும்) நூல்",
+      "chapter_title_malayalam": "സത്യങ്ങളുടെയും നേർച്ചകളുടെയും പുസ്തകം",
+      "total_hadiths_inChapter": 96,
+      "chapter_first_hadith": 3770,
+      "chapter_last_hadith": 3865
+    },
+    {
+      "chapter_title_english": "The Book of the Kind Treatment of Women",
+      "chapter_title_arabic": "كتاب عشرة النساء",
+      "chapter_title_tamil": "இஷ்ரத்துந் நிஸா (மனைவியருடன் நன்முறையில் வாழ்தல்) நூல்",
+      "chapter_title_malayalam": "സ്ത്രീകളുമായുള്ള സമ്പർക്കത്തിന്റെ പുസ്തകം",
+      "total_hadiths_inChapter": 27,
+      "chapter_first_hadith": 3866,
+      "chapter_last_hadith": 3892
+    },
+    {
+      "chapter_title_english": "The Book of Fighting [The Prohibition of Bloodshed]",
+      "chapter_title_arabic": "كتاب تحريم الدم",
+      "chapter_title_tamil": "தஹ்ரீமுத் தம் (மனித உயிர்களைக் கொல்வது தடைசெய்யப்பட்டது பற்றிய) நூல்",
+      "chapter_title_malayalam": "രക്തം നിഷിദ്ധമാക്കലിന്റെ പുസ്തകം",
+      "total_hadiths_inChapter": 167,
+      "chapter_first_hadith": 3893,
+      "chapter_last_hadith": 4059
+    },
+    {
+      "chapter_title_english": "The Book of Distribution of Al-Fay'",
+      "chapter_title_arabic": "كتاب قسم الفىء",
+      "chapter_title_tamil": "கஸ்முல் ஃபய்உ (போரின்றி கிடைத்த பொதுச் செல்வங்களைப் பங்கிடுதல்) நூல்",
+      "chapter_title_malayalam": "ഫൈഇന്റെ വിതരണ പുസ്തകം",
+      "total_hadiths_inChapter": 16,
+      "chapter_first_hadith": 4060,
+      "chapter_last_hadith": 4075
+    },
+    {
+      "chapter_title_english": "The Book of al-Bay'ah",
+      "chapter_title_arabic": "كتاب البيعة",
+      "chapter_title_tamil": "பைஅத் (விசுவாசப் பிரமாணம் / உறுதிமொழி) நூல்",
+      "chapter_title_malayalam": "ബൈഅത്തിന്റെ (പ്രതിജ്ഞയുടെ) പുസ്തകം",
+      "total_hadiths_inChapter": 63,
+      "chapter_first_hadith": 4076,
+      "chapter_last_hadith": 4138
+    },
+    {
+      "chapter_title_english": "The Book of al-'Aqiqah",
+      "chapter_title_arabic": "كتاب العقيقة",
+      "chapter_title_tamil": "அகீகா நூல்",
+      "chapter_title_malayalam": "അഖീഖത്തിന്റെ പുസ്തകം",
+      "total_hadiths_inChapter": 10,
+      "chapter_first_hadith": 4139,
+      "chapter_last_hadith": 4148
+    },
+    {
+      "chapter_title_english": "The Book of al-Fara' and al-'Atirah",
+      "chapter_title_arabic": "كتاب الفرع والعتيرة",
+      "chapter_title_tamil": "அல்-ஃபரவு வல்-அதீரா (தலைச்சன் குட்டி மற்றும் ரஜப் மாத அறுப்புப் பிராணி) நூல்",
+      "chapter_title_malayalam": "ഫർഇന്റെയും അതീറയുടെയും പുസ്തകം",
+      "total_hadiths_inChapter": 41,
+      "chapter_first_hadith": 4149,
+      "chapter_last_hadith": 4189
+    },
+    {
+      "chapter_title_english": "The Book of Hunting and Slaughtering",
+      "chapter_title_arabic": "كتاب الصيد والذبائح",
+      "chapter_title_tamil": "வேட்டை மற்றும் அறுக்கப்படும் பிராணிகள் நூல்",
+      "chapter_title_malayalam": "വേട്ടയുടെയും അറുക്കലിന്റെയും പുസ്തകം",
+      "total_hadiths_inChapter": 98,
+      "chapter_first_hadith": 4190,
+      "chapter_last_hadith": 4287
+    },
+    {
+      "chapter_title_english": "The Book of ad-Dahaya (Sacrifices)",
+      "chapter_title_arabic": "كتاب الضحايا",
+      "chapter_title_tamil": "அழ்-ழஹாயா (குர்பானிப் பிராணிகள்) நூல்",
+      "chapter_title_malayalam": "ബലിമൃഗങ്ങളുടെ (ഉദ്ഹിയ്യത്തിന്റെ) പുസ്തകം",
+      "total_hadiths_inChapter": 88,
+      "chapter_first_hadith": 4288,
+      "chapter_last_hadith": 4375
+    },
+    {
+      "chapter_title_english": "The Book of Financial Transactions",
+      "chapter_title_arabic": "كتاب البيوع",
+      "chapter_title_tamil": "வியாபாரக் கொடுக்கல் வாங்கல்கள் நூல்",
+      "chapter_title_malayalam": "കച്ചവടങ്ങളുടെ (വ്യാപാര ഇടപാടുകളുടെ) പുസ്തകം",
+      "total_hadiths_inChapter": 257,
+      "chapter_first_hadith": 4376,
+      "chapter_last_hadith": 4632
+    },
+    {
+      "chapter_title_english": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+      "chapter_title_arabic": "كتاب القسامة",
+      "chapter_title_tamil": "அல்-கஸாமா (கொலை வழக்கில் சத்தியம் செய்தல்) நூல்",
+      "chapter_title_malayalam": "ഖസാമയുടെ (സത്യം ചെയ്യലിന്റെ) പുസ്തകം",
+      "total_hadiths_inChapter": 164,
+      "chapter_first_hadith": 4633,
+      "chapter_last_hadith": 4796
+    },
+    {
+      "chapter_title_english": "The Book of Cutting off the Hand of the Thief",
+      "chapter_title_arabic": "كتاب قطع السارق",
+      "chapter_title_tamil": "திருடனின் கையைத் துண்டிப்பது பற்றிய நூல்",
+      "chapter_title_malayalam": "മോഷ്ടാവിന്റെ കൈവെട്ടലിന്റെ പുസ്തകം",
+      "total_hadiths_inChapter": 114,
+      "chapter_first_hadith": 4797,
+      "chapter_last_hadith": 4910
+    },
+    {
+      "chapter_title_english": "The Book Of Faith and its Signs",
+      "chapter_title_arabic": "كتاب الإيمان وشرائعه",
+      "chapter_title_tamil": "ஈமான் மற்றும் அதன் சட்டதிட்டங்கள் பற்றிய நூல்",
+      "chapter_title_malayalam": "ഈമാനിന്റെയും അതിന്റെ നിയമങ്ങളുടെയും പുസ്തകം",
+      "total_hadiths_inChapter": 55,
+      "chapter_first_hadith": 4911,
+      "chapter_last_hadith": 4965
+    },
+    {
+      "chapter_title_english": "The Book of Adornment",
+      "chapter_title_arabic": "كتاب الزينة من السنن",
+      "chapter_title_tamil": "ஸுன்னாவில் கூறப்பட்டுள்ள அலங்காரங்கள் பற்றிய நூல்",
+      "chapter_title_malayalam": "സുന്നത്തിൽ നിന്നുള്ള അലങ്കാരങ്ങളുടെ പുസ്തകം",
+      "total_hadiths_inChapter": 339,
+      "chapter_first_hadith": 4966,
+      "chapter_last_hadith": 5304
+    },
+    {
+      "chapter_title_english": "The Book of the Etiquette of Judges",
+      "chapter_title_arabic": "كتاب آداب القضاة",
+      "chapter_title_tamil": "நீதிபதிகளின் நெறிமுறைகள் பற்றிய நூல்",
+      "chapter_title_malayalam": "ന്യായാധിപന്മാരുടെ മര്യാദകളുടെ പുസ്തകം",
+      "total_hadiths_inChapter": 49,
+      "chapter_first_hadith": 5305,
+      "chapter_last_hadith": 5353
+    },
+    {
+      "chapter_title_english": "The Book of Seeking Refuge with Allah",
+      "chapter_title_arabic": "كتاب الاستعاذة",
+      "chapter_title_tamil": "பாதுகாவல் தேடுதல் (இஸ்திஆதா) பற்றிய நூல்",
+      "chapter_title_malayalam": "ശരണം തേടലിന്റെ (ഇസ്തിആദയുടെ) പുസ്തകം",
+      "total_hadiths_inChapter": 112,
+      "chapter_first_hadith": 5354,
+      "chapter_last_hadith": 5465
+    },
+    {
+      "chapter_title_english": "The Book of Drinks",
+      "chapter_title_arabic": "كتاب الأشربة",
+      "chapter_title_tamil": "பானங்கள் பற்றிய நூல்",
+      "chapter_title_malayalam": "പാനീയങ്ങളുടെ പുസ്തകം",
+      "total_hadiths_inChapter": 220,
+      "chapter_first_hadith": 5466,
+      "chapter_last_hadith": 5685
+    }
+  ]
+}
